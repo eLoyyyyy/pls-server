@@ -1,5 +1,10 @@
 "# pls-server" 
 
+### PLS API Todo List
+
+- [ ] Create Schema Doc
+- [ ] Create API
+
 
 <!-- 
 **custom project(manage_accounts.php)
